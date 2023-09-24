@@ -39,7 +39,7 @@ export default function Hero() {
                 </div>
                 <div className="w-[801px] float-right bot">
                     <div>
-                        <p className="heroboxtwo">
+                        <p className="heroboxtwo text-right w-[801px] text-[48px]">
                             Cheaper delivery costs through
                             innovative vehicle design
                         </p>

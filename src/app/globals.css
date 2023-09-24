@@ -175,12 +175,12 @@ body {
 }
 
 .heroboxtwo {
-  width: 801px;
+  /* width: 801px; */
   color: #FFF;
-  text-align: right;
+  /* text-align: right; */
   text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
   font-family: 'Poppins', sans-serif;
-  font-size: 48px;
+  /* font-size: 48px; */
   font-style: normal;
   font-weight: 400;
   line-height: 133.2%;
@@ -317,4 +317,14 @@ box-shadow: 0px 4px 10px 2px rgba(158, 158, 158, 0.25);
 .bgphoto{
   background-image: url('/Rectangle 65.png');
   background-size: cover;
+}
+.fivbox{
+  border-radius: 0px 37px 0px 0px;
+border: 1px solid #FFF;
+background: rgba(0, 42, 84, 0.93);
+width: 639px;
+height: 230px;
+}
+.fivbg{
+  background-image: url('../../public/Rectangle 66.png');
 }
