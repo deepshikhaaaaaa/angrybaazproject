@@ -290,7 +290,7 @@ flex-shrink: 0;
 .cardtext{
   /* color: #002A54; */
 font-family: Poppins;
-font-size: 24px;
+/* font-size: 24px; */
 font-style: normal;
 font-weight: 600;
 line-height: 133.2%; /* 31.968px */
@@ -298,7 +298,7 @@ text-transform: capitalize;
 }
 .cardtextb{
   width: 395px;
-height: 186px;
+height: 165px;
 flex-shrink: 0;
 /* color: #002A54; */
 font-family: Poppins;
@@ -314,3 +314,7 @@ opacity: 0.1;
 background: ;
 box-shadow: 0px 4px 10px 2px rgba(158, 158, 158, 0.25);
 } */
+.bgphoto{
+  background-image: url('/Rectangle 65.png');
+  background-size: cover;
+}
